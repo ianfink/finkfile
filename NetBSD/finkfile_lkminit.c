@@ -1,5 +1,5 @@
 /*
- * File:		finkfile.c
+ * File:		finkfile_lkminit.c
  *
  * Purpose:		NetBSD device driver for circular queue file
  */
@@ -437,5 +437,5 @@ ffq_empty(struct finkfile_queue *ffq_ptr)
 /*************************************************************************/
 
 /*
- * End of file:  finkfile.c
+ * End of file:  finkfile_lkminit.c
  */

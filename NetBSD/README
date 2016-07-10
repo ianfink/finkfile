@@ -1,0 +1,13 @@
+finkfile is a character pseudo device driver that implements a file
+that circular behaves like a circular queue.
+
+Currently, this is a work-in-progress.  There are various areas of the
+program instructions that are utilized for debugging purposes and will
+be taken out at a later date.
+
+TODO:
+
+(1)  Finish testing
+(2)  Remove debugging program instructions
+(3)  Add support for kqueue (e.g., so "tail -f" will work properly)
+

@@ -1,0 +1,2 @@
+finkfile is a character pseudo device driver that implements a file
+that circular behaves like a circular queue.  

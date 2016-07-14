@@ -1,9 +1,10 @@
 finkfile is a character pseudo device driver that implements a file
-that circular behaves like a circular queue.
+that behaves like a circular queue.
 
 Currently, this is a work-in-progress.  There are various areas of the
 program instructions that are utilized for debugging purposes and will
-be taken out at a later date.
+be taken out at a later date.  Nevertheless, it does work if you
+want to have a go at it.
 
 TODO:
 
